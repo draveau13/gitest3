@@ -4,6 +4,10 @@ public class Main {
     }
 
     public String fonctionDev() {
-        return "dev";
+        return "dev 2";
+    }
+
+    public String fonctionTest() {
+        return "test 4";
     }
 }
