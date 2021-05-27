@@ -8,6 +8,6 @@ public class Main {
     }
 
     public String fonctionTest() {
-        return "        test 4";
+        return "     test 2";
     }
 }
